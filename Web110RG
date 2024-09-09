@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!--Rehema Gentille, 09/09/2024-->
+<html lang="en">
+<head> <!--contins all the information that will not show up on he page>
+    <title>wireframe</title>
+      <ta charset="utf-8">
+	</head>
+	<body> <!--contains elements that show up on the page-->
+	<header> <!--container for intro content on the page-->
+	      <h1>wireframe Basics</h1>
+		  </header>
+		  <nav><!--set of navigatiom links-->
+		  <a href="wireframe.html">link 1</a><&nbsp;&nbsp;&nbsp;!--a href stands for hyperlink reference. reletive
+		  <a href="cat.downloads">cat 2</a>&nbsp;&nbsp;&nbsp;
+		  <a href="downloads/cat2.black and white">cat2 2</a>&nbsp;&nbsp;&nbsp; 
+		  <a href=". ./cat">Go back a stp</a>&nbsp;&nbsp;&nbsp;
+		  <a href=". ./downloads2/cat">Go back a step and into another
+		  </nav>
+		  <hr> <!--horizontal rule -- put a horizontal line-->
+		  </mani>
+		  
+		  <h3> This is a heading 3 </h3>
+		  <h4> this is heading 4 </h4>
+		  </h5> This is heading 5 </h5>
+		  
+		  
+		  
+		  
+		  paragraph. </p>
+		  <br><br>
+		  
+		  <p> This a quote<p>
+		  <blockquote cite="www.google.co"> I am a quote1 <.blockquote>
+		  <br><b>
+		  <p>The following word uses an <em<emphasis</em> typeface. </p>
+		  <]>The following 
+		  
+		  <p>my cat's name is,= <Li title="Libi">libi<
+		  
+		  
+		  <p><dbo dir="rtl"
+		  <br><br>
+		  
+		  <p<>
+		  
+		 
+		 <div> <!-- div lets your group together things and style the, together 
+		  <
+		  
+		  <1i> Item 2<1l>
+		       <1i> item 2<1i>
+			       </o1>
+		<u1 type="circle". <!
+		
+		
+		<1i>item 3</1i
+		
+		
+		
+		         <dt>Question 1,/dt>
+				 <dd>Amswer 1</dd>
+			</dat
+			
+			</div>
+		</main>
+		
+		<footer> <!--things in the foooter of the webite-->
+		   <small><i>
+		  
+		  
