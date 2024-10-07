@@ -3,7 +3,8 @@
 <html lang="en">
 	<head> <!--contains all the info that will not show up on the page-->
 		<title>jccc</title>
-		<meta charset="utf-8">
+             <meta charset="utf-8">
+            <link rel="stylesheet" href+"web.ss" type="text/css">
 	</head>
 	<body>
 	<header>
