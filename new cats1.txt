@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About cats</title>
+</head>
+<<body>
+Cats can cure your depression.
+</body>
+</html>
