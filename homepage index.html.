@@ -4,7 +4,7 @@
 	<head> <!--contains all the info that will not show up on the page-->
 		<title>jccc</title>
              <meta charset="utf-8">
-            <link rel="stylesheet" href+"web.ss" type="text/css">
+            <link rel="stylesheet" href+"Web.css"type="text/css">
 	</head>
 	<body>
 	<header>
@@ -18,10 +18,8 @@
 </nav>
 <img src="homehero.jpg" alt="room with computers and chairs">
 
-<div>
 <div id="homehero.jpg"
-id="homeHeroImage" />
-</div>
+id="homeHeroImage">
 
      <main>
 	<h2>What Will I Learn in JCCC' s <span><strong>Web Development and Digital Media Program?</strong></span></h2>
@@ -29,20 +27,8 @@ id="homeHeroImage" />
 	<p> Work in both Windows and Mac to build your toolbox. Start with the basics of HTML, CSS and JavaScript. Move on to web scripting for front-end and back-end design and development using PHP, UX, UI, Bootstrap, jQuery and React. Get experience building in WordPress and Drupal content management systems.</p>
 	<p> In our Web Development and Digital Media courses, you'll learn:</p>
 	</main>
-	<ul>
-	<li>Digital media concepts</li>
-	<li>Digital workflow</li>
-	<li>Web analytics</li>
-	<li>Visual storytelling</li>
-	<li>Search engine optimization (SEO)</li>
-	<li>User experience</li>
-	<li>Content and digital asset creation</li>
-	<li>Emerging technologies</li>
-	<li>Web scripting</li>
-	</ul>
 <body>
 <div id="wrapper">
-<h1>In our  Jccc's Web Development and Digital Medis courses, you'll learn:?</h1>
 <ul>
 <li>Digital media concepts</li>
 <li>Digital workflow</li>
@@ -55,15 +41,18 @@ id="homeHeroImage" />
 <li>Web scripting</li>
 </ul>
 </div>
-</ body>
+</body>
+
 <div> 
 Johnson County Community College<br>
 12345 College Blvd<br>
 Overland Park, KS 66210<br>
 913-469-8500<br>
 </div>
+
+
 <footer> <!--Copyright © 2022Jccc Web Development and Digital Media-->Copyright &copy; Rehema Gentille &amp; jccc</i></small>
-<a href="mailto:rgentill@stuamil.jccc.edu">My email<a/>
+<a href="mailto:rgentill@stuamil.jccc.edu">My email</a>a>
 </footer>
 </body>
 </html>
