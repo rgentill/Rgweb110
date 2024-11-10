@@ -16,12 +16,14 @@
 	<a href="index.html"> faculty </a> &nbsp;
 	<a href="index.html"> contact </a> &nbsp;
 	</nav>
-	
+
+
+	<main>
 	<h2>What Will I Learn in JCCC' s <span><strong>Web Development and Digital Media Program?</strong></span></h2>
 	<p> Start a conversation or tell a story using the language of technology. With just a few semesters of study, you'll gain a deeper understanding of digital workflow, web applications, web development and content management — and be ready to launch your new career in web development and digital media.</p>
 	<p> Work in both Windows and Mac to build your toolbox. Start with the basics of HTML, CSS and JavaScript. Move on to web scripting for front-end and back-end design and development using PHP, UX, UI, Bootstrap, jQuery and React. Get experience building in WordPress and Drupal content management systems.</p>
 	<p> In our Web Development and Digital Media courses, you'll learn:</p>
-	
+	</main>
 	<ul>
 	<li>Digital media concepts</li>
 	<li>Digital workflow</li>
