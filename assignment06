@@ -4,7 +4,7 @@
 	<head> <!--contains all the info that will not show up on the page-->
 		<title>jccc</title>
              <meta charset="utf-8">
-            <link rel="stylesheet" href+"Web.css"type="text/css">
+            <link rel="stylesheet" type="text/css" href="CSS.css">
 	</head>
 	<body>
 	<header>
