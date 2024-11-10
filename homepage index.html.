@@ -8,7 +8,7 @@
 	</head>
 	<body>
 	<header>
-	<h1> Jccc web development and digital<h1>
+	<h1>Jccc Web Development and Digital<h1>
 	</header>
 	<nav> <!-- home tracks faculty contact-->
 	<a href="index.html"> home </a> &nbsp;
@@ -33,17 +33,31 @@
 	<li>Emerging technologies</li>
 	<li>Web scripting</li>
 	</ul>
+<body>
+<div id="wrapper">
+<h1>In our  Jccc's Web Development and Digital Medis courses, you'll learn:?</h1>
+<ul>
+<li>Digital media concepts</li>
+<li>Digital workflow</li>
+<li>Web analytics</li>
+<li>Visual storytelling</li>
+<li>Search engine optimization (SEO)</li>
+<li>User experience</li>
+<li>Content and digital asset creation</li>
+<li>Emerging technologies</li>
+<li>Web scripting</li>
+</ul>
+</div>
+</ body>
 <div> 
 Johnson County Community College<br>
 12345 College Blvd<br>
 Overland Park, KS 66210<br>
 913-469-8500<br>
 </div>
-<footer> <!--Copyright © 2022 JCCC Web Development and Digital Media-->
-<div><img src="homehero.jpg" heigt="400" width="100%" alt="A room with computers and chairs">
-
-Copyright &copy; Rehema Gentille &amp; jccc</i></small>
-<a href="rgentill@stuamil.jccc.edu"</a> 
+<footer> <!--Copyright © 2022Jccc Web Development and Digital Media-->Copyright &copy; Rehema Gentille &amp; jccc</i></small>
+<a href="mailto:rgentill@stuamil.jccc.edu">My email<a/>
+</footer>
 </body>
 </html>
 
