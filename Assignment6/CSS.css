@@ -1,0 +1,43 @@
+
+h1 {
+    text-align: left;
+    font-size: 20px;
+  font-weight: 36px; 
+    background: color #005477;
+    color:white;
+    background-size: 275px;
+    background-image: 
+    url('logo.png');
+    padding:0px
+    
+   
+    
+
+
+    
+
+
+}
+
+
+    
+
+#wrapper { width: 0px;
+           margin-left: auto;
+           margin-right: auto; }
+
+#homeHero {
+    background-image:
+    url('homehero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 100%; /* adjust width */
+    height: 500px; /* adjust height */
+    object-fit: cover;
+}   
+
+ nav{
+    text-align: center;
+    font-size:larger;
+
+ }

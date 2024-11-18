@@ -1,0 +1,78 @@
+body{
+    background: linear-gradient#0194b5;
+    background-repeat: no-repeat;
+    
+
+}
+
+#wrapper {
+    width:80%;
+    min-width: 960px;
+    max-width: 2048px;
+    background-color: #FFFFFF;
+    color: white;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 10px 3px
+    #333333;
+
+
+    
+
+
+}
+
+
+header{
+    height: 60px;
+    text-align: center;
+    padding: 15px
+
+
+}
+
+h1{
+    margin-top: 0;
+}
+
+nav{
+    background-color: #ffffff;
+    text-align: center;
+    padding: 1em
+}
+
+
+
+
+
+h2{
+    text-shadow: 1px 1xp 0 #cccccc;
+}
+
+homehero{
+    height: 400px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+trackshero{
+    height: 400px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+
+facultyhero{
+    height: 400px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+nav{
+    text-align: center;
+    font-size: larger;
+
+}
